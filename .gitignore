@@ -1,8 +1,4 @@
-# vscode
-.vscode
-
-# C++
-## cmake
+CMakeLists.txt.user*
 builddir
 compile_commands.json
 !build-system/cmake/hello/compile_commands.json
